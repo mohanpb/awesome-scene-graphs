@@ -5,7 +5,7 @@ Literature survey of scene graphs
 ## Papers
 
 * **VRD** [[Paper](https://arxiv.org/pdf/1608.00187.pdf)]
-  * Visual Relationship Detection with Language Priors, ECCV, 2016.
+  * Visual Relationship Detection with Language Priors, ECCV, 2016.  
     Cewu Lu, Ranjay Krishna, Michael Bernstein, Li Fei-Fei
 * **DR-Net** [[Paper](https://arxiv.org/pdf/1704.03114.pdf)]
   * Detecting Visual Relationships with Deep Relational Networks, CVPR, 2017
