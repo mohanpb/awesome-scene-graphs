@@ -24,8 +24,10 @@ Literature survey of scene graphs
   * Detecting Visual Relationships with Deep Relational Networks, CVPR, 2017.  
     Bo Dai, Yuqi Zhang, Dahua Lin
 * **SGGen** [[Paper](https://arxiv.org/pdf/1701.02426.pdf)]
-  * Scene Graph Generation by Iterative Message Passing, CVPR, 2017.  
+  * Scene Graph Generation by Iterative Message Passing, CVPR, 2017.
     Danfei Xu, Yuke Zhu, Christopher B. Choy, Li Fei-Fei
+  * Image Generation from Scene Graphs (CVPR '18)
+  * [code](https://github.com/danfeiX/scene-graph-TF-release)
 * **VRL** [[Paper](https://arxiv.org/pdf/1703.03054.pdf)]
   * Deep Variation-Structured Reinforcement Learning for Visual Relationship and Attribute Detection, CVPR, 2017.  
     Xiaodan Liang, Lisa Lee, Eric P. Xing
@@ -44,6 +46,7 @@ Literature survey of scene graphs
 * **MSDN** [[Paper](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Scene_Graph_Generation_ICCV_2017_paper.html)]
   * Scene Graph Generation From Objects, Phrases and Region Captions, ICCV, 2017.  
     Yikang Li, Wanli Ouyang, Bolei Zhou, Kun Wang, Xiaogang Wang
+  * [code](https://github.com/yikang-li/MSDN) 
 * **Image-Language Cues** [[Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Plummer_Phrase_Localization_and_ICCV_2017_paper.pdf)]
   * Phrase Localization and Visual Relationship Detection With Comprehensive Image-Language Cues, ICCV, 2017.  
     Bryan A. Plummer, Arun Mallya, Christopher M. Cervantes, Julia Hockenmaier, Svetlana Lazebnik
@@ -56,14 +59,13 @@ Literature survey of scene graphs
 * **SSAS** [[Paper]()]
   * Referring Relationships, CVPR, 2018.  
     Ranjay Krishna, Ines Chami, Michael Bernstein, Li Fei-Fei
-* **a** [[Paper]()]
-  *   
+* **Factorizable Net** [[Paper]()]
+  * Factorizable Net: An Efficient Subgraph-based Framework for Scene Graph Generation
+  * [code](https://github.com/yikang-li/FactorizableNet)
+* ** NA ** [[Paper](https://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf)]
+  * Image Retrieval using Scene Graphs
     
 
 * **a** [[Paper]()]
   *   
-    
-
-* **a** [[Paper]()]
-  *   
-    
+   
